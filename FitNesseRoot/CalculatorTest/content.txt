@@ -1,0 +1,4 @@
+!|com.test.fitnesse.logic.CalculatorFixture|
+|first    |    second    |    sum?    |    product?    |
+|    1    |    2         |     3      |      2         |
+|   1000  |    0         |     1000   |      0         |
